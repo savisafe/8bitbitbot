@@ -73,8 +73,10 @@ body{
     height: 600px;
 }
 
+.container_game:focus { outline: none; }
+
 @font-face {
     font-family: "Pixels";
-    src: url("/fontselGameFont.ttf");
+    src: url("/fonts/PixelGameFont.ttf");
     format("ttf");
 }
