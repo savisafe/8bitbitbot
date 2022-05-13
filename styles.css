@@ -64,6 +64,6 @@ body{
 
 @font-face {
     font-family: "Pixels";
-    src: url("/src/fonts/PixelGameFont.ttf");
+    src: url("/fontselGameFont.ttf");
     format("ttf");
 }

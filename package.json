@@ -1,7 +1,7 @@
 {
   "name": "retro_game",
   "version": "1.0.0",
-  "main": "src/scripts.js",
+  "main": "scripts.js",
   "license": "MIT",
   "devDependencies": {
     "parcel": "^2.5.0"
